@@ -1,0 +1,14 @@
+Package: mytools
+Title: Rosie's Useful Tools
+Version: 0.0.0.9000
+Authors@R: 
+    person(given = "Rosemary",
+           family = "Hartman",
+           role = c("aut", "cre"),
+           email = "rosehartman@gmail.com",
+           comment = c(ORCID = "YOUR-ORCID-ID"))
+Description: What the package does (one paragraph).
+License: Apache License (>= 2.0)
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 6.1.1
